@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "comment": "Pakistan airspace data extracted from AIP 2025.",
+  "author": "Dr Jamie J. Alnasir, PakAviation.com",
+  "source": "Pakistan AIP (Aeronautical Information Publication)",
+  "features": [
+  ]
+}
+
+{
+  "type": "FeatureCollection",
+  "info": "Pakistan aviation data — aerodromes from Pakistan_Enroute_Aerodromes(1).zip (including private airfields) followed by en-route navigation aids from Pakistan_navaids(2).geojson; source AIP editions as recorded in individual features.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.71140556,
+          29.34706389
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPBW",
+        "NAM": "BAHAWALPUR INTL",
+        "ELE": 121,
+        "ORI": 78.91,
+        "VAR": 2,
+        "RWY": "08 • 2850×30m • ASPH • 79°\n26 • 2850×30m • ASPH • 259°",
+        "COM": "BAHAWALPUR GROUND 121.800\nBAHAWALPUR TOWER 129.800",
+        "NAV": "BW NDB 332 kHz",
+        "OTH": "IFR/VFR; ATS HS 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPBW, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.79991667,
+          35.88619444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPCH",
+        "NAM": "CHITRAL",
+        "ELE": 1500,
+        "ORI": 27.54,
+        "VAR": 2,
+        "RWY": "02 • 1768×30m • ASPH • 28°\n20 • 1768×30m • ASPH • 208°",
+        "COM": "CHITRAL TOWER 121.800\nCHITRAL TOWER 122.500",
+        "OTH": "VFR; ATS HS. 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPCH, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.40461111,
+          28.87501667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPDB",
+        "NAM": "DALBANDIN",
+        "ELE": 846,
+        "ORI": 126.76,
+        "VAR": 2,
+        "RWY": "13 • 2024×31m • ASPH • 127°\n31 • 2024×31m • ASPH • 307°",
+        "COM": "DALBANDIN GROUND 121.800\nDALBANDIN TOWER 129.500",
+        "NAV": "DB NDB 287 kHz",
+        "OTH": "IFR/VFR; ATS By NOTAM 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPDB, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.48559444,
+          29.96111389
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPDG",
+        "NAM": "D.G. KHAN / FAROOQ AHMAD KHAN LEGHARI INTL",
+        "ELE": 150,
+        "ORI": 181.0,
+        "VAR": 2,
+        "RWY": "18 • 1981×30m • ASPH • 181°\n36 • 1981×30m • ASPH • 1°",
+        "COM": "D.G. KHAN TOWER 121.800\nD.G. KHAN TOWER 119.400",
+        "NAV": "DG NDB 322 kHz",
+        "OTH": "IFR/VFR; ATS 24 hours PN.",
+        "SRC": "Pakistan AIP AD 2 OPDG, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.89663889,
+          31.90942222
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPDI",
+        "NAM": "D.I. KHAN",
+        "ELE": 181,
+        "ORI": 118.84,
+        "VAR": 2,
+        "RWY": "12 • 1524×23m • ASPH • 119°\n30 • 1524×23m • ASPH • 299°",
+        "COM": "D.I. KHAN TOWER 121.800\nD.I. KHAN TOWER 122.800",
+        "NAV": "DI VOR 113.100 MHz",
+        "OTH": "IFR/VFR; ATS HS 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPDI, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99554722,
+          31.36525278
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPFA",
+        "NAM": "FAISALABAD INTL",
+        "ELE": 180,
+        "ORI": 36.2,
+        "VAR": 2,
+        "RWY": "03L • 2743×30m • ASPH • 36°\n21R • 2743×30m • ASPH • 216°\n03R • 2842×46m • CONC • 36°\n21L • 2842×46m • CONC • 216°",
+        "COM": "FAISALABAD GROUND 121.800\nFAISALABAD TOWER 118.475\nFAISALABAD TOWER 118.625",
+        "INF": "FAISALABAD TOWER D-ATIS 126.625",
+        "NAV": "IFA ILS/LOC CAT-I 109.700 MHz\nFA NDB 212 kHz\nSP NDB 317 kHz\nIFA GP/TDME 03R 333.200 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: JET A1.",
+        "SRC": "Pakistan AIP AD 2 OPFA, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.33364444,
+          35.91878611
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPGT",
+        "NAM": "GILGIT",
+        "ELE": 1462,
+        "ORI": 71.56,
+        "VAR": 2,
+        "RWY": "07 • 1646×30m • ASPH • 72°\n25 • 1646×30m • ASPH • 252°",
+        "COM": "GILGIT TOWER 119.100\nGILGIT TOWER 121.800",
+        "NAV": "GT NDB 324 kHz",
+        "OTH": "VFR; ATS HS. 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPGT, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.49876111,
+          25.29671667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPGW",
+        "NAM": "NEW GWADAR INTL",
+        "ELE": 20,
+        "ORI": 69.15,
+        "VAR": 1,
+        "RWY": "07 • 3658×45m • CONC • 69°\n25 • 3658×45m • CONC • 249°",
+        "COM": "NEW GWADAR TOWER 118.200\nNEW GWADAR TOWER 118.000\nNEW GWADAR GROUND 121.800\nNEW GWADAR TOWER 133.450",
+        "INF": "OPGW ATIS 127.050",
+        "NAV": "GW NDB 365 kHz\nIGW GP/TDME 334.700 MHz\nIGW ILS/LOC 108.100 MHz",
+        "OTH": "IFR/VFR; ATS HS, 24 hours PN for Non-Scehduled flights; Fuel: Jet A1.",
+        "SRC": "Pakistan AIP AD 2 OPGW, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82565,
+          33.54908333
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPIS",
+        "NAM": "ISLAMABAD INTL",
+        "ELE": 537,
+        "ORI": 100.58,
+        "VAR": 3,
+        "RWY": "10R • 3658×60m • ASPH • 101°\n28L • 3658×60m • ASPH • 281°\n10L • 3658×45m • ASPH • 101°\n28R • 3658×45m • ASPH • 281°",
+        "COM": "ISLAMABAD GROUND 124.350\nISLAMABAD DEPARTURE 118.550\nGMC (N) 125.150\nISLAMABAD APP 124.650\nGMC (N) 123.050\nISLAMABAD TOWER 122.150\nISLAMABAD APP 121.650\nISLAMABAD GROUND 122.950\nISLAMABAD DEPARTURE 119.650\nISLAMABAD TOWER 123.225\nISLAMABAD GROUND 121.850\nISLAMABAD GROUND 130.600",
+        "INF": "OPIS D-ATIS 126.200",
+        "NAV": "IBIP ILS/LOC CAT I 110.700 MHz\nIBBA ILS/LOC CAT 108.100 MHz\nIBAP ILS/LOC CAT I 111.300 MHz\nBTR DVOR/DME 114.600 MHz\nIBAP GP/TDME 10R 332.300 MHz\nIBIP GP/TDME 28R 330.200 MHz\nIBBA GP/TDME 28L 334.700 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: Jet A1.",
+        "SRC": "Pakistan AIP AD 2 OPIS, PDF pages dated 20 MAR 25, 12 JUN 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.16276111,
+          24.90855833
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPKC",
+        "NAM": "KARACHI / JINNAH INTL",
+        "ELE": 30,
+        "ORI": 74.29,
+        "VAR": 1,
+        "RWY": "07L • 3200×46m • CONC • 74°\n25R • 3200×46m • CONC • 254°\n07R • 3400×45m • CONC • 74°\n25L • 3400×45m • CONC • 254°",
+        "COM": "KARACHI APP 121.300\nKARACHI APP 125.500\nKARACHI GROUND 118.400\nKARACHI GROUND 121.600\nKARACHI GROUND 121.800\nKARACHI GROUND 123.000\nKARACHI TOWER 118.300\nKARACHI TOWER 118.800",
+        "INF": "OPKC ATIS 126.700",
+        "NAV": "IKC ILS/LOC CAT I 110.100 MHz\nIQA ILS/LOC CAT I 109.700 MHz\nKC NDB 271 kHz\nKC DVOR/DME 112.100 MHz\nIKC GP/TDME 25R 334.400 MHz\nIQA GP/TDME 25L 333.200 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: Jet A1, ASO W100, ASO W120.",
+        "SRC": "Pakistan AIP AD 2 OPKC, PDF pages dated 12 JUN 25, 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.36625556,
+          25.31813889
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPKD",
+        "NAM": "HYDERABAD",
+        "ELE": 44,
+        "ORI": 25.6,
+        "VAR": 1,
+        "RWY": "02 • 2133×30m • ASPH • 26°\n20 • 2133×30m • ASPH • 206°",
+        "COM": "HYDERABAD TOWER 119.650\nHYDERABAD TOWER 121.800",
+        "NAV": "KD NDB 223 kHz",
+        "OTH": "IFR/VFR; ATS 24 Hours PN.",
+        "SRC": "Pakistan AIP AD 2 OPKD, PDF pages dated 20 MAR 25, 12 JUN 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.404575,
+          31.52156111
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPLA",
+        "NAM": "LAHORE / AIIAP INTL",
+        "ELE": 218,
+        "ORI": 180.88,
+        "VAR": 2,
+        "RWY": "18L • 3360×45m • CONC • 181°\n36R • 3360×45m • CONC • 1°\n18R • 2743×46m • ASPH • 181°\n36L • 2743×46m • ASPH • 1°",
+        "COM": "LAHORE APP 121.300\nLAHORE APP 125.300\nLAHORE GROUND 118.400\nLAHORE GROUND 121.800\nLAHORE TOWER 118.100\nLAHORE TOWER 118.875",
+        "INF": "OPLA ATIS 126.300",
+        "NAV": "ILO ILS/LOC CAT I 109.700 MHz\nILA ILS/LOC CAT 109.900 MHz\nLA NDB 268 kHz\nLA DVOR/DME 112.700 MHz\nILO GP/TDME 36L 333.200 MHz\nILA GP/TDME 36R 333.800 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: Jet A1, BPTO 2380.",
+        "SRC": "Pakistan AIP AD 2 OPLA, PDF pages dated 20 MAR 25, 12 JUN 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.14305278,
+          27.33515556
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPMJ",
+        "NAM": "MOENJODARO",
+        "ELE": 47,
+        "ORI": 76.47,
+        "VAR": 1,
+        "RWY": "08 • 1981×30m • ASPH • 76°\n26 • 1981×30m • ASPH • 256°",
+        "COM": "MOENJODARO GROUND 121.800\nMOENJODARO TOWER 119.600",
+        "NAV": "MJ NDB 304 kHz",
+        "OTH": "IFR/VFR; ATS HS 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPMJ, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41911111,
+          30.20322222
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPMT",
+        "NAM": "MULTAN INTL",
+        "ELE": 123,
+        "ORI": 183.35,
+        "VAR": 2,
+        "RWY": "18 • 3204×46m • CONC • 183°\n36 • 3204×46m • CONC • 3°",
+        "COM": "MULTAN TOWER 119.100\nMULTAN TOWER 122.600\nMULTAN GROUND 121.800",
+        "INF": "MULTAN TOWER D-ATIS 126.250",
+        "NAV": "IMT ILS/LOC CAT I 110.300 MHz\nMT NDB 387 kHz\nMT VOR 116.700 MHz\nDOTS/DASHES GP/TDME 36 335.000 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: Fuel Jet A1.",
+        "SRC": "Pakistan AIP AD 2 OPMT, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.39005278,
+          26.21944167
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPNH",
+        "NAM": "NAWABSHAH",
+        "ELE": 29,
+        "ORI": 20.52,
+        "VAR": 1,
+        "RWY": "02 • 2743×46m • CONC • 21°\n20 • 2743×46m • CONC • 201°",
+        "COM": "NAWABSHAH TOWER 121.800\nNAWABSHAH TOWER 118.100",
+        "NAV": "NH DVOR/DME 112.900 MHz\nNH NDB 393 kHz",
+        "OTH": "IFR/VFR; ATS 0400-1200 UTC Monday to Friday (24 Hr PN for non-; Fuel: Jet A1.",
+        "SRC": "Pakistan AIP AD 2 OPNH, PDF pages dated 12 JUN 25, 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.46389722,
+          31.35826389
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPZB",
+        "NAM": "ZHOB",
+        "ELE": 1441,
+        "ORI": 100.64,
+        "VAR": 2,
+        "RWY": "10 • 1829×30m • ASPH • 101°\n28 • 1829×30m • ASPH • 281°",
+        "COM": "ZHOB TOWER 121.800\nZHOB TOWER 120.700",
+        "NAV": "ZB NDB 245 kHz\nZB DVOR/DME 115.700 MHz",
+        "OTH": "VFR; ATS HS. 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPZB, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.03016667,
+          25.98636944
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPTU",
+        "NAM": "TURBAT INTL",
+        "ELE": 153,
+        "ORI": 83.09,
+        "VAR": 1,
+        "RWY": "08R • 2743×45m • ASPH • 83°\n26L • 2743×45m • ASPH • 263°\n08L • 1829×30m • ASPH • 83°\n26R • 1829×30m • ASPH • 263°",
+        "COM": "TURBAT TOWER 121.800\nTURBAT TOWER 118.700",
+        "NAV": "ITU ILS/LOC CAT I 111.900 MHz\nTU NDB 237 kHz\nTU DVOR/DME 113.900 MHz\nITU GP/TDME 26L 332.000 MHz",
+        "OTH": "IFR/VFR; ATS HS. 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPTU, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.36383056,
+          32.53573889
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPST",
+        "NAM": "SIALKOT INTL",
+        "ELE": 240,
+        "ORI": 43.16,
+        "VAR": 2,
+        "RWY": "04 • 3600×45m • ASPH • 43°\n22 • 3600×45m • ASPH • 223°",
+        "COM": "SIALKOT GROUND 121.950\nSIALKOT TOWER 119.850\nSIALKOT TOWER 119.950",
+        "NAV": "ISL ILS/LOC CAT I 109.300 MHz\nSLT DVOR/DME 113.800 MHz\nISL GP/TDME 04 332.000 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: Jet A 1; Private airport (AIP AD 2.2).",
+        "SRC": "Pakistan AIP AD 2 OPST, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35214444,
+          34.81327222
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPSS",
+        "NAM": "SAIDU SHARIF",
+        "ELE": 970,
+        "ORI": 52.32,
+        "VAR": 2,
+        "RWY": "05 • 1829×46m • ASPH • 52°\n23 • 1829×46m • ASPH • 232°",
+        "COM": "SAIDU SHARIF TOWER 121.800\nSAIDU SHARIF TOWER 120.700",
+        "NAV": "SS NDB 357 kHz",
+        "OTH": "VFR; ATS By NOTAM. 24 hours PN for non-schedule flights; Fuel: 3. Fuelling facilities/capacity Nil.",
+        "SRC": "Pakistan AIP AD 2 OPSS, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.79182778,
+          27.72201667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPSK",
+        "NAM": "SUKKUR / BEGUM NUSRAT BHUTTO AIRPORT",
+        "ELE": 60,
+        "ORI": 140.51,
+        "VAR": 2,
+        "RWY": "14 • 2743×30m • ASPH • 141°\n32 • 2743×30m • ASPH • 321°",
+        "COM": "SUKKUR TOWER 121.800\nSUKKUR TOWER 122.500",
+        "INF": "SUKKUR TOWER D-ATIS 126.825",
+        "NAV": "SK NDB 375 kHz",
+        "OTH": "IFR/VFR; ATS HS(PN for non scheduled flights); Fuel: JET A-1.",
+        "SRC": "Pakistan AIP AD 2 OPSK, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.54139444,
+          35.33949167
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPSD",
+        "NAM": "SKARDU INTL",
+        "ELE": 2225,
+        "ORI": 147.0,
+        "VAR": 2,
+        "RWY": "14L • 3657×30m • ASPH • 147°\n32R • 3657×30m • ASPH • 327°\n14R • 3656×45m • ASPH • 147°\n32L • 3656×45m • ASPH • 327°",
+        "COM": "SKARDU GROUND 121.800\nSKARDU TOWER 118.000\nSKARDU TOWER 118.080",
+        "NAV": "SD NDB 247 kHz",
+        "OTH": "VFR; ATS HJ. 24 hours PN for non-schedule flight; Fuel: JET A1.",
+        "SRC": "Pakistan AIP AD 2 OPSD, PDF pages dated 12 JUN 25, 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.27979722,
+          28.38542222
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPRK",
+        "NAM": "RAHIM YAR KHAN / SHEIKH ZAYED INTL",
+        "ELE": 83,
+        "ORI": 14.64,
+        "VAR": 2,
+        "RWY": "01 • 3000×45m • ASPH • 15°\n19 • 3000×45m • ASPH • 195°",
+        "COM": "RAHIM YAR KHAN GROUND 121.800\nRAHIM YAR KHAN TOWER 122.200",
+        "NAV": "RK NDB 290 kHz\nRK DVOR/DME 113.700 MHz",
+        "OTH": "IFR/VFR; ATS HS. 24 hours PN for non-schedule flights.",
+        "SRC": "Pakistan AIP AD 2 OPRK, PDF pages dated 20 MAR 25, 12 JUN 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.93868056,
+          30.25214444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPQT",
+        "NAM": "QUETTA / SAMUNGLI INTERNATIONAL",
+        "ELE": 1606,
+        "ORI": 136.43,
+        "VAR": 2,
+        "RWY": "13L • 3646×45.6m • CONC • 136°\n31R • 3646×45.6m • CONC • 316°",
+        "COM": "QUETTA GROUND 121.800\nQUETTA TOWER 118.050\nQUETTA TOWER 118.500",
+        "NAV": "IUTA ILS/LOC CAT I 108.700 MHz\nQT NDB 348 kHz\nQT DVOR/DME 114.700 MHz\nIUTA GP/TDME 13L 330.500 MHz",
+        "OTH": "IFR/VFR; ATS As per Flight Operation; Fuel: Jet A1, AVGAS.",
+        "SRC": "Pakistan AIP AD 2 OPQT, PDF pages dated 12 JUN 25, 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.51458333,
+          33.99391389
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPPS",
+        "NAM": "PESHAWAR INTL / BACHA KHAN INTERNATIONAL",
+        "ELE": 369,
+        "ORI": 175.91,
+        "VAR": 3,
+        "RWY": "17 • 2743×46m • ASPH • 176°\n35 • 2743×46m • ASPH • 356°",
+        "COM": "CHERAT APP 121.200\nCHERAT APP 125.600\nCHERAT NORTH 121.200\nCHERAT NORTH 125.600\nCHERAT SOUTH 126.250\nCHERAT SOUTH 127.350\nPESHAWAR GROUND 121.800\nPESHAWAR TOWER 122.900\nPESHAWAR TOWER 118.400\nPESHAWAR TOWER 118.300",
+        "INF": "OPPS D-ATIS 126.700",
+        "NAV": "IBKB ILS/LOC CAT 35 108.300 MHz\nPS DVOR/DME 114.300 MHz\nPS NDB 308 kHz\nIBKB GP/TDME 35 334.100 MHz",
+        "OTH": "IFR/VFR; ATS H24; Fuel: Jet A1 / ETO 274 (with PIAC); RWY 35 right-hand circuit; visual circling east side only. VFR in Cherat CTR requires ATC clearance.",
+        "SRC": "Pakistan AIP AD 2 OPPS, PDF pages dated 12 JUN 25, 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.34442222,
+          25.29015833
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPPI",
+        "NAM": "PASNI",
+        "ELE": 10,
+        "ORI": 58.41,
+        "VAR": 1,
+        "RWY": "06 • 2743×46m • ASPH • 58°\n24 • 2743×46m • ASPH • 238°",
+        "COM": "PASNI TOWER 121.800\nPASNI TOWER 124.300",
+        "NAV": "PI NDB 400 kHz",
+        "OTH": "IFR/VFR; ATS By NOTAM. 24 hours PN for non-schedule flights; Fuel: Jet A-1 Fuel available upon prior coordination with PSO.",
+        "SRC": "Pakistan AIP AD 2 OPPI, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.13251667,
+          26.95454444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPPG",
+        "NAM": "PANJGUR",
+        "ELE": 1002,
+        "ORI": 131.86,
+        "VAR": 2,
+        "RWY": "13 • 1524×23m • ASPH • 132°\n31 • 1524×23m • ASPH • 312°",
+        "COM": "PANJGUR TOWER 121.800\nPANJGUR TOWER 118.050\nPANJGUR TOWER 118.100",
+        "NAV": "PG NDB 388 kHz\nPG DVOR/DME 114.300 MHz",
+        "OTH": "IFR/VFR; ATS HS 24 hours PN for non-schedule/Military flights.",
+        "SRC": "Pakistan AIP AD 2 OPPG, PDF pages dated 20 MAR 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.50555556,
+          26.19583333
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "BHIT",
+        "ELE": 127,
+        "COD": "OPBT",
+        "RWY": "17 • 1670×30m • ASPH/CONC\n35 • 1670×30m • ASPH/CONC",
+        "COM": "BHIT RADIO 132.000",
+        "NAV": "BT NDB 425 kHz",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.09606944,
+          24.84709722
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "THAR AIRPORT",
+        "ELE": 61,
+        "COD": "OPTA",
+        "RWY": "07 • 2134×30m • ASPH\n25 • 2134×30m • ASPH",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.55609722,
+          29.69076111
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD",
+        "NAM": "ALI KHAN TAREEN",
+        "ELE": 137,
+        "RWY": "36 • 1113×24m • UNPAVED\n18 • 1113×24m • UNPAVED",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.55423611,
+          30.33541389
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "D.G. KHAN CEMENT",
+        "ELE": 122,
+        "RWY": "20 • 1500×15m • ASPH\n02 • 1500×15m • ASPH",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.06301667,
+          28.50571667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD",
+        "NAM": "JAMAL DIN WALI",
+        "ELE": 85,
+        "RWY": "01 • 1219×24m • DIRT\n19 • 1219×24m • DIRT",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15381944,
+          27.20047222
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "KADANWARI",
+        "ELE": 76,
+        "RWY": "12 • 2400×45m • ASPH\n30 • 2400×45m • ASPH",
+        "COM": "KADANWARI RADIO 129.225",
+        "NAV": "KW NDB 270 kHz",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27601111,
+          28.273975
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "KANDHKOT",
+        "ELE": 70,
+        "RWY": "05 • 1189×23m • ASPH\n23 • 1189×23m • ASPH",
+        "COM": "KANDHKOT RADIO 131.900",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.55745556,
+          24.78700833
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "KHASKHELI",
+        "ELE": 29,
+        "RWY": "06 • 1524×23m • ASPH\n24 • 1524×23m • ASPH",
+        "COM": "KHASKHELI RADIO 129.0125",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.98638889,
+          30.18666667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "LAL PIR",
+        "ELE": 126,
+        "RWY": "36 • 1494×23m • ASPH\n18 • 1494×23m • ASPH",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.87888889,
+          26.96694444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD",
+        "NAM": "SAWAN",
+        "ELE": 79,
+        "RWY": "03 • 1665×30m • UNKNOWN\n21 • 1665×30m • UNKNOWN",
+        "COM": "SAWAN RADIO 129.1625",
+        "NAV": "SW NDB 279 kHz",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17638889,
+          28.64638889
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "SUI",
+        "ELE": 233,
+        "RWY": "01 • 1829×30m • ASPH\n19 • 1829×30m • ASPH",
+        "COM": "SUI RADIO 123.000",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.64734167,
+          29.04015556
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "JUZZAK",
+        "ELE": 872,
+        "RWY": "36 • 1829×30m • ASPH\n18 • 1829×30m • ASPH",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.19555556,
+          29.04694444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "REKO DIQ",
+        "ELE": 839,
+        "RWY": "36 • 1703×30m • ASPH\n18 • 1703×30m • ASPH",
+        "COM": "REKO DIQ RADIO 132.000",
+        "NAV": "NDB 294 kHz",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.61113611,
+          28.62529167
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "UCH",
+        "ELE": 76,
+        "RWY": "12 • 1006×23m • ASPH\n30 • 1006×23m • ASPH",
+        "OTH": "Private airfield; operational and licence status must be verified against current AIP/NOTAM.",
+        "SRC": "Pakistan AIP AD 2 OPXX, private airfields table, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.70944444,
+          29.34972222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "BW",
+        "MOR": "‒••• •‒‒ ",
+        "NAM": "BAHAWALPUR",
+        "NAV": "332.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "HJ",
+        "RMR": "Coverage 25NM",
+        "NOT": " Hours: HJ; Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.66444444,
+          24.82805556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KA",
+        "MOR": "‒•‒ •‒ ",
+        "NAM": "CAPE MONZE",
+        "NAV": "244.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77083333,
+          25.52
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KE",
+        "MOR": "‒•‒ • ",
+        "NAM": "CHORE",
+        "NAV": "410.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 150NM",
+        "NOT": " Coverage 150NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.49027778,
+          29.96222222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "DG",
+        "MOR": "‒•• ‒‒• ",
+        "NAM": "D.G. KHAN",
+        "NAV": "322.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "RMR": "Coverage 25NM",
+        "NOT": " Hours: NOTAM; Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.88555556,
+          31.91277778
+        ]
+      },
+      "properties": {
+        "CAT": "VOR",
+        "COD": "DI",
+        "MOR": "‒•• •• ",
+        "NAM": "D.I. KHAN",
+        "NAV": "113.100 MHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.40111111,
+          28.87333333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "DB",
+        "MOR": "‒•• ‒••• ",
+        "NAM": "DALBANDIN",
+        "NAV": "287.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "NOT": " Hours: NOTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.995,
+          31.37027778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "FA",
+        "MOR": "••‒• •‒ ",
+        "NAM": "FAISALABAD",
+        "NAV": "212.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.56666667,
+          24.78055556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KF",
+        "MOR": "‒•‒ ••‒• ",
+        "NAM": "GHARO",
+        "NAV": "296.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 25NM",
+        "NOT": " Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.335,
+          35.92027778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "GT",
+        "MOR": "‒‒• ‒ ",
+        "NAM": "GILGIT",
+        "NAV": "324.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "HJ",
+        "RMR": "Coverage 50NM",
+        "NOT": " Hours: HJ; Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4725,
+          25.2875
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "GW",
+        "MOR": "‒‒• •‒‒ ",
+        "NAM": "NEW GWADAR",
+        "NAV": "365.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 25NM",
+        "NOT": " Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.36194444,
+          25.32277778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KD",
+        "MOR": "‒•‒ ‒•• ",
+        "NAM": "HYDERABAD",
+        "NAV": "223.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "HJ",
+        "NOT": " Hours: HJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12583333,
+          33.60583333
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "RN",
+        "MOR": "•‒• ‒• ",
+        "NAM": "ISLAMABAD",
+        "NAV": "112.100 MHz • 58X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "ELE": 504,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85611111,
+          33.54444444
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "BTR",
+        "MOR": "‒••• ‒ •‒• ",
+        "NAM": "ISLAMABAD",
+        "NAV": "114.600 MHz • 93X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "ELE": 535,
+        "VAR": 3.0,
+        "HRS": "H24",
+        "RMR": "Coverage 200 NM",
+        "NOT": " Coverage 200 NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.18166667,
+          24.91194444
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "KC",
+        "MOR": "‒•‒ ‒•‒• ",
+        "NAM": "KARACHI",
+        "NAV": "112.100 MHz • 58X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 41,
+        "VAR": 1.0,
+        "HRS": "H24",
+        "RMR": "Coverage 200 NM",
+        "NOT": " Coverage 200 NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.16,
+          24.92333333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KC",
+        "MOR": "‒•‒ ‒•‒• ",
+        "NAM": "KARACHI",
+        "NAV": "271.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4,
+          31.51944444
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "LA",
+        "MOR": "•‒•• •‒ ",
+        "NAM": "LAHORE",
+        "NAV": "112.700 MHz • 74X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 227,
+        "VAR": 2.0,
+        "HRS": "H24",
+        "RMR": "Coverage 200NM",
+        "NOT": " Coverage 200NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.39666667,
+          31.52305556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "LA",
+        "MOR": "•‒•• •‒ ",
+        "NAM": "LAHORE",
+        "NAV": "268.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.14111111,
+          27.33083333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "MJ",
+        "MOR": "‒‒ •‒‒‒ ",
+        "NAM": "MOENJODARO",
+        "NAV": "304.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "NOT": " Hours: NOTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41277778,
+          30.19416667
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "MT",
+        "MOR": "‒‒ ‒ ",
+        "NAM": "MULTAN",
+        "NAV": "387.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41611111,
+          30.19416667
+        ]
+      },
+      "properties": {
+        "CAT": "VOR",
+        "COD": "MT",
+        "MOR": "‒‒ ‒ ",
+        "NAM": "MULTAN",
+        "NAV": "116.700 MHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.38527778,
+          26.21666667
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "NH",
+        "MOR": "‒• •••• ",
+        "NAM": "NAWABSHAH",
+        "NAV": "112.900 MHz • 76",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 38,
+        "VAR": 1.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.39138889,
+          26.21722222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "NH",
+        "MOR": "‒• •••• ",
+        "NAM": "NAWABSHAH",
+        "NAV": "393.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 150NM",
+        "NOT": " Coverage 150NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.13694444,
+          26.95277778
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "PG",
+        "MOR": "•‒‒• ‒‒• ",
+        "NAM": "PANJGUR",
+        "NAV": "114.300 MHz • 90X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 1010,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.13833333,
+          26.95611111
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "PG",
+        "MOR": "•‒‒• ‒‒• ",
+        "NAM": "PANJGUR",
+        "NAV": "388.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "NOT": " Hours: NOTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.34861111,
+          25.28805556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "PI",
+        "MOR": "•‒‒• •• ",
+        "NAM": "PASNI",
+        "NAV": "400.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.51694444,
+          33.97833333
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "PS",
+        "MOR": "•‒‒• ••• ",
+        "NAM": "PESHAWAR",
+        "NAV": "114.300 MHz • 90X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 383,
+        "VAR": 3.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.50277778,
+          33.99916667
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "PS",
+        "MOR": "•‒‒• ••• ",
+        "NAM": "PESHAWAR",
+        "NAV": "308.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 150NM",
+        "NOT": " Coverage 150NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.93611111,
+          30.25777778
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "QT",
+        "MOR": "‒‒•‒ ‒ ",
+        "NAM": "QUETTA",
+        "NAV": "114.700 MHz • 94X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 1567,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.94888889,
+          30.23416667
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "QT",
+        "MOR": "‒‒•‒ ‒ ",
+        "NAM": "QUETTA",
+        "NAV": "348.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "HJ",
+        "RMR": "PAF Controlled",
+        "NOT": " Hours: HJ; PAF Controlled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30361111,
+          28.41138889
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "RK",
+        "MOR": "•‒• ‒•‒ ",
+        "NAM": "RAHIM YAR KHAN",
+        "NAV": "290.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "HJ",
+        "NOT": " Hours: HJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.27305556,
+          28.36638889
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "RK",
+        "MOR": "•‒• ‒•‒ ",
+        "NAM": "RAHIM YAR KHAN",
+        "NAV": "113.700 MHz • 84X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "ELE": 88,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35194444,
+          34.80888889
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SS",
+        "MOR": "••• ••• ",
+        "NAM": "SAIDUSHARIF",
+        "NAV": "357.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "NOTAM",
+        "RMR": "Facility withdrawn",
+        "STATUS": "WITHDRAWN",
+        "NOT": " Hours: NOTAM; Facility withdrawn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71833333,
+          26.47527778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SN",
+        "MOR": "••• ‒• ",
+        "NAM": "SEHWAN SHARIF",
+        "NAV": "338.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "RMR": "Coverage 50NM (Non Operational)",
+        "STATUS": "NON-OPERATIONAL",
+        "NOT": " Coverage 50NM (Non Operational)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99888889,
+          31.70055556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SP",
+        "MOR": "••• •‒‒• ",
+        "NAM": "SHEIKHUPURA",
+        "NAV": "317.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34333333,
+          32.51861111
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "SLT",
+        "MOR": "••• •‒•• ‒ ",
+        "NAM": "SIALKOT",
+        "NAV": "113.800 MHz • 85X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "ELE": 242,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.52222222,
+          35.33111111
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SD",
+        "MOR": "••• ‒•• ",
+        "NAM": "SKARDU",
+        "NAV": "247.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "HJ",
+        "NOT": " Hours: HJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.79611111,
+          27.72222222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SK",
+        "MOR": "••• ‒•‒ ",
+        "NAM": "SUKKUR",
+        "NAV": "375.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.02972222,
+          25.99
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "TU",
+        "MOR": "‒ ••‒ ",
+        "NAM": "TURBAT",
+        "NAV": "237.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "NOTAM",
+        "RMR": "Below FL100 fluctuation exceeds (+/-) 10 degrees at closer ranges of 5 to 8 NM from NDB. 100 Watts. Coverage 50 NM.",
+        "NOT": " Hours: NOTAM; Below FL100 fluctuation exceeds (+/-) 10 degrees at closer ranges of 5 to 8 NM from NDB. 100 Watts. Coverage 50 NM."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.46,
+          31.35583333
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "ZB",
+        "MOR": "‒‒•• ‒••• ",
+        "NAM": "ZHOB",
+        "NAV": "115.700 MHz • 104X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "VAR": 2.0,
+        "HRS": "H24",
+        "RMR": "DME Range 40NM below 10,000FT",
+        "NOT": " DME Range 40NM below 10,000FT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.455,
+          31.35583333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "ZB",
+        "MOR": "‒‒•• ‒••• ",
+        "NAM": "ZHOB",
+        "NAV": "245.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "H24"
+      }
+    }
+  ]
+}
