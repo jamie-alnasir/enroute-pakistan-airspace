@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "comment": "Pakistan airspace data extracted from AIP 2025.",
+  "comment": "Pakistan aerodrome and navigation aid data extracted from AIP 2025.",
   "author": "Dr Jamie J. Alnasir, PakAviation.com",
   "source": "Pakistan AIP (Aeronautical Information Publication)",
   "features": [
