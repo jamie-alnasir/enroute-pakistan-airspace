@@ -1,0 +1,876 @@
+{
+  "type": "FeatureCollection",
+  "info": "Pakistan AIP ENR 4.1, pages ENR 4.1-1 to ENR 4.1-3 (2025-06-12 and 2025-03-20). Includes withdrawn/non-operational records as explicitly flagged; verify AIP/NOTAMs before operational use.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.70944444,
+          29.34972222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "BW",
+        "MOR": "‒••• •‒‒ ",
+        "NAM": "BAHAWALPUR",
+        "NAV": "332.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "HJ",
+        "RMR": "Coverage 25NM",
+        "NOT": " Hours: HJ; Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.66444444,
+          24.82805556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KA",
+        "MOR": "‒•‒ •‒ ",
+        "NAM": "CAPE MONZE",
+        "NAV": "244.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77083333,
+          25.52
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KE",
+        "MOR": "‒•‒ • ",
+        "NAM": "CHORE",
+        "NAV": "410.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 150NM",
+        "NOT": " Coverage 150NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.49027778,
+          29.96222222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "DG",
+        "MOR": "‒•• ‒‒• ",
+        "NAM": "D.G. KHAN",
+        "NAV": "322.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "RMR": "Coverage 25NM",
+        "NOT": " Hours: NOTAM; Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.88555556,
+          31.91277778
+        ]
+      },
+      "properties": {
+        "CAT": "VOR",
+        "COD": "DI",
+        "MOR": "‒•• •• ",
+        "NAM": "D.I. KHAN",
+        "NAV": "113.100 MHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.40111111,
+          28.87333333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "DB",
+        "MOR": "‒•• ‒••• ",
+        "NAM": "DALBANDIN",
+        "NAV": "287.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "NOT": " Hours: NOTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.995,
+          31.37027778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "FA",
+        "MOR": "••‒• •‒ ",
+        "NAM": "FAISALABAD",
+        "NAV": "212.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.56666667,
+          24.78055556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KF",
+        "MOR": "‒•‒ ••‒• ",
+        "NAM": "GHARO",
+        "NAV": "296.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 25NM",
+        "NOT": " Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.335,
+          35.92027778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "GT",
+        "MOR": "‒‒• ‒ ",
+        "NAM": "GILGIT",
+        "NAV": "324.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "HJ",
+        "RMR": "Coverage 50NM",
+        "NOT": " Hours: HJ; Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4725,
+          25.2875
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "GW",
+        "MOR": "‒‒• •‒‒ ",
+        "NAM": "NEW GWADAR",
+        "NAV": "365.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 25NM",
+        "NOT": " Coverage 25NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.36194444,
+          25.32277778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KD",
+        "MOR": "‒•‒ ‒•• ",
+        "NAM": "HYDERABAD",
+        "NAV": "223.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "HRS": "HJ",
+        "NOT": " Hours: HJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12583333,
+          33.60583333
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "RN",
+        "MOR": "•‒• ‒• ",
+        "NAM": "ISLAMABAD",
+        "NAV": "112.100 MHz • 58X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "ELE": 504,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85611111,
+          33.54444444
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "BTR",
+        "MOR": "‒••• ‒ •‒• ",
+        "NAM": "ISLAMABAD",
+        "NAV": "114.600 MHz • 93X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-1, 12 JUN 2025",
+        "ELE": 535,
+        "VAR": 3.0,
+        "HRS": "H24",
+        "RMR": "Coverage 200 NM",
+        "NOT": " Coverage 200 NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.18166667,
+          24.91194444
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "KC",
+        "MOR": "‒•‒ ‒•‒• ",
+        "NAM": "KARACHI",
+        "NAV": "112.100 MHz • 58X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 41,
+        "VAR": 1.0,
+        "HRS": "H24",
+        "RMR": "Coverage 200 NM",
+        "NOT": " Coverage 200 NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.16,
+          24.92333333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "KC",
+        "MOR": "‒•‒ ‒•‒• ",
+        "NAM": "KARACHI",
+        "NAV": "271.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4,
+          31.51944444
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "LA",
+        "MOR": "•‒•• •‒ ",
+        "NAM": "LAHORE",
+        "NAV": "112.700 MHz • 74X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 227,
+        "VAR": 2.0,
+        "HRS": "H24",
+        "RMR": "Coverage 200NM",
+        "NOT": " Coverage 200NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.39666667,
+          31.52305556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "LA",
+        "MOR": "•‒•• •‒ ",
+        "NAM": "LAHORE",
+        "NAV": "268.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.14111111,
+          27.33083333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "MJ",
+        "MOR": "‒‒ •‒‒‒ ",
+        "NAM": "MOENJODARO",
+        "NAV": "304.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "NOT": " Hours: NOTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41277778,
+          30.19416667
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "MT",
+        "MOR": "‒‒ ‒ ",
+        "NAM": "MULTAN",
+        "NAV": "387.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41611111,
+          30.19416667
+        ]
+      },
+      "properties": {
+        "CAT": "VOR",
+        "COD": "MT",
+        "MOR": "‒‒ ‒ ",
+        "NAM": "MULTAN",
+        "NAV": "116.700 MHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.38527778,
+          26.21666667
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "NH",
+        "MOR": "‒• •••• ",
+        "NAM": "NAWABSHAH",
+        "NAV": "112.900 MHz • 76",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 38,
+        "VAR": 1.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.39138889,
+          26.21722222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "NH",
+        "MOR": "‒• •••• ",
+        "NAM": "NAWABSHAH",
+        "NAV": "393.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 150NM",
+        "NOT": " Coverage 150NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.13694444,
+          26.95277778
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "PG",
+        "MOR": "•‒‒• ‒‒• ",
+        "NAM": "PANJGUR",
+        "NAV": "114.300 MHz • 90X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 1010,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.13833333,
+          26.95611111
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "PG",
+        "MOR": "•‒‒• ‒‒• ",
+        "NAM": "PANJGUR",
+        "NAV": "388.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "NOTAM",
+        "NOT": " Hours: NOTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.34861111,
+          25.28805556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "PI",
+        "MOR": "•‒‒• •• ",
+        "NAM": "PASNI",
+        "NAV": "400.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.51694444,
+          33.97833333
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "PS",
+        "MOR": "•‒‒• ••• ",
+        "NAM": "PESHAWAR",
+        "NAV": "114.300 MHz • 90X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 383,
+        "VAR": 3.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.50277778,
+          33.99916667
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "PS",
+        "MOR": "•‒‒• ••• ",
+        "NAM": "PESHAWAR",
+        "NAV": "308.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 150NM",
+        "NOT": " Coverage 150NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.93611111,
+          30.25777778
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "QT",
+        "MOR": "‒‒•‒ ‒ ",
+        "NAM": "QUETTA",
+        "NAV": "114.700 MHz • 94X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "ELE": 1567,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.94888889,
+          30.23416667
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "QT",
+        "MOR": "‒‒•‒ ‒ ",
+        "NAM": "QUETTA",
+        "NAV": "348.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-2, 12 JUN 2025",
+        "HRS": "HJ",
+        "RMR": "PAF Controlled",
+        "NOT": " Hours: HJ; PAF Controlled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30361111,
+          28.41138889
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "RK",
+        "MOR": "•‒• ‒•‒ ",
+        "NAM": "RAHIM YAR KHAN",
+        "NAV": "290.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "HJ",
+        "NOT": " Hours: HJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.27305556,
+          28.36638889
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "RK",
+        "MOR": "•‒• ‒•‒ ",
+        "NAM": "RAHIM YAR KHAN",
+        "NAV": "113.700 MHz • 84X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "ELE": 88,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35194444,
+          34.80888889
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SS",
+        "MOR": "••• ••• ",
+        "NAM": "SAIDUSHARIF",
+        "NAV": "357.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "NOTAM",
+        "RMR": "Facility withdrawn",
+        "STATUS": "WITHDRAWN",
+        "NOT": " Hours: NOTAM; Facility withdrawn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71833333,
+          26.47527778
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SN",
+        "MOR": "••• ‒• ",
+        "NAM": "SEHWAN SHARIF",
+        "NAV": "338.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "RMR": "Coverage 50NM (Non Operational)",
+        "STATUS": "NON-OPERATIONAL",
+        "NOT": " Coverage 50NM (Non Operational)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99888889,
+          31.70055556
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SP",
+        "MOR": "••• •‒‒• ",
+        "NAM": "SHEIKHUPURA",
+        "NAV": "317.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34333333,
+          32.51861111
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "SLT",
+        "MOR": "••• •‒•• ‒ ",
+        "NAM": "SIALKOT",
+        "NAV": "113.800 MHz • 85X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "ELE": 242,
+        "VAR": 2.0,
+        "HRS": "H24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.52222222,
+          35.33111111
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SD",
+        "MOR": "••• ‒•• ",
+        "NAM": "SKARDU",
+        "NAV": "247.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "HJ",
+        "NOT": " Hours: HJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.79611111,
+          27.72222222
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "SK",
+        "MOR": "••• ‒•‒ ",
+        "NAM": "SUKKUR",
+        "NAV": "375.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "H24",
+        "RMR": "Coverage 50NM",
+        "NOT": " Coverage 50NM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.02972222,
+          25.99
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "TU",
+        "MOR": "‒ ••‒ ",
+        "NAM": "TURBAT",
+        "NAV": "237.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "NOTAM",
+        "RMR": "Below FL100 fluctuation exceeds (+/-) 10 degrees at closer ranges of 5 to 8 NM from NDB. 100 Watts. Coverage 50 NM.",
+        "NOT": " Hours: NOTAM; Below FL100 fluctuation exceeds (+/-) 10 degrees at closer ranges of 5 to 8 NM from NDB. 100 Watts. Coverage 50 NM."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.46,
+          31.35583333
+        ]
+      },
+      "properties": {
+        "CAT": "DVOR-DME",
+        "COD": "ZB",
+        "MOR": "‒‒•• ‒••• ",
+        "NAM": "ZHOB",
+        "NAV": "115.700 MHz • 104X",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "VAR": 2.0,
+        "HRS": "H24",
+        "RMR": "DME Range 40NM below 10,000FT",
+        "NOT": " DME Range 40NM below 10,000FT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.455,
+          31.35583333
+        ]
+      },
+      "properties": {
+        "CAT": "NDB",
+        "COD": "ZB",
+        "MOR": "‒‒•• ‒••• ",
+        "NAM": "ZHOB",
+        "NAV": "245.000 kHz",
+        "TYP": "NAV",
+        "SRC": "Pakistan AIP ENR 4.1-3, 20 MAR 2025",
+        "HRS": "H24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "comment": "Pakistan private aerodromes extracted from AIP AD 2 OPXX (20 MAR 2025). AIP snapshot; current licence and operating status require verification.",
+  "author": "Dr Jamie J. Alnasir, PakAviation.com",
+  "source": "Pakistan AIP (Aeronautical Information Publication), AD 2 OPXX, AIRAC AMDT 01/25 (20 MAR 2025)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.55609722,
+          29.69076111
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD",
+        "NAM": "ALI KHAN TAREEN",
+        "ELE": 137,
+        "RWY": "36 • 1113×24m • UNPAVED\n18 • 1113×24m • UNPAVED",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 30 JUN 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.50555556,
+          26.19583333
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPBT",
+        "NAM": "BHIT",
+        "ELE": 127,
+        "RWY": "17 • 1670×30m • ASPH/CONC\n35 • 1670×30m • ASPH/CONC",
+        "COM": "BHIT RADIO 132.000",
+        "NAV": "BT NDB 425 kHz",
+        "OTH": "Private airfield; IFR/VFR; operating hours: HS. 2025 AIP lists licence valid until 31 DEC 2024. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.55423611,
+          30.33541389
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "D.G. KHAN CEMENT",
+        "ELE": 122,
+        "RWY": "20 • 1500×15m • ASPH\n02 • 1500×15m • ASPH",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 31 DEC 2024. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.06301667,
+          28.50571667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD",
+        "NAM": "JAMAL DIN WALI",
+        "ELE": 85,
+        "RWY": "01 • 1219×24m • DIRT\n19 • 1219×24m • DIRT",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 30 JUN 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15381944,
+          27.20047222
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "KADANWARI",
+        "ELE": 76,
+        "RWY": "12 • 2400×45m • ASPH\n30 • 2400×45m • ASPH",
+        "COM": "KADANWARI RADIO 129.225\nKADANWARI HF 5757 / 4522 / 6636 kHz",
+        "NAV": "KW NDB 270 kHz",
+        "OTH": "Private airfield; IFR/VFR; operating hours: HS; 30 hours PN for non-scheduled flights. 2025 AIP lists licence valid until 31 DEC 2024. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27601111,
+          28.273975
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "KANDHKOT",
+        "ELE": 70,
+        "RWY": "05 • 1189×23m • ASPH\n23 • 1189×23m • ASPH",
+        "COM": "KANDHKOT RADIO 131.900",
+        "OTH": "Private airfield; VFR; operating hours: H24 PN. 2025 AIP lists licence valid until 30 JUN 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.55745556,
+          24.78700833
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "KHASKHELI",
+        "ELE": 29,
+        "RWY": "06 • 1524×23m • ASPH\n24 • 1524×23m • ASPH",
+        "COM": "KHASKHELI RADIO 129.0125",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 31 AUG 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.98638889,
+          30.18666667
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "LAL PIR",
+        "ELE": 126,
+        "RWY": "36 • 1494×23m • ASPH\n18 • 1494×23m • ASPH",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 31 JUL 2024. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.87888889,
+          26.96694444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD",
+        "NAM": "SAWAN",
+        "ELE": 79,
+        "RWY": "03 • 1665×30m • UNKNOWN\n21 • 1665×30m • UNKNOWN",
+        "COM": "SAWAN RADIO 129.1625",
+        "NAV": "SW NDB 279 kHz",
+        "OTH": "Private airfield; IFR/VFR; operating hours: HS; 30 hours PN for non-scheduled flights. 2025 AIP lists licence valid until 31 DEC 2024. Current operational and licence status unverified. Runway surface not explicitly specified; AIP lists PCN 8/F/A/850/T.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17638889,
+          28.64638889
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "SUI",
+        "ELE": 233,
+        "RWY": "01 • 1829×30m • ASPH\n19 • 1829×30m • ASPH",
+        "COM": "SUI RADIO 123.000",
+        "OTH": "Private airfield; VFR; operating hours: H24 PN; HS. 2025 AIP lists licence valid until 30 JUN 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.09606944,
+          24.84709722
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "COD": "OPTA",
+        "NAM": "THAR AIRPORT",
+        "ELE": 61,
+        "RWY": "07 • 2134×30m • ASPH\n25 • 2134×30m • ASPH",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 30 JUN 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.64734167,
+          29.04015556
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "JUZZAK",
+        "ELE": 872,
+        "RWY": "36 • 1829×30m • ASPH\n18 • 1829×30m • ASPH",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 31 AUG 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.19555556,
+          29.04694444
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "REKO DIQ",
+        "ELE": 839,
+        "RWY": "36 • 1703×30m • ASPH\n18 • 1703×30m • ASPH",
+        "COM": "REKO DIQ RADIO 132.000",
+        "NAV": "NDB 294 kHz",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP lists licence valid until 31 MAY 2025. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.61113611,
+          28.62529167
+        ]
+      },
+      "properties": {
+        "TYP": "AD",
+        "CAT": "AD-PAVED",
+        "NAM": "UCH",
+        "ELE": 76,
+        "RWY": "12 • 1006×23m • ASPH\n30 • 1006×23m • ASPH",
+        "OTH": "Private airfield; VFR; operating hours: HS. 2025 AIP reports licence expired on 30 NOV 2021. Current operational and licence status unverified.",
+        "SRC": "Pakistan AIP AD 2 OPXX, Data of Private Airfields in Pakistan, 20 MAR 2025",
+        "NO_ICAO_PUBLISHED": true
+      }
+    }
+  ]
+}
